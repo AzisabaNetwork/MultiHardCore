@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiHardCore:jar">
+    <output-path>$PROJECT_DIR$/../../../1.15.2 server/plugins</output-path>
+    <root id="archive" name="MultiHardCore.jar">
+      <element id="module-output" name="MultiHardCore" />
+    </root>
+  </artifact>
+</component>
